@@ -1,4 +1,0 @@
-repository "Cloud Repositories/Tile-2026@20067178218361@cloud"
-  path "/"
-    br "/main"
-    co "/main"
